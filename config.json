@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersync",
+        "uuid": 25657099,
+        "checksum": "mq56bs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
